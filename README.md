@@ -1,4 +1,4 @@
-- 👋 Hi GUYS, I’m @Davidest1995, a mechanical engineer from Colombia!!
+- 👋 Hi GUYS, I’m @Davidest1995, an engineer and data scientist from Colombia!!
 - 👀 I’m interested in learinig python like an expert and become a Machine learning Engineer.
 - 📫 How to reach me Davidest1995@gmail.com
 
